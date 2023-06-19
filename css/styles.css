@@ -22,7 +22,7 @@ h3{
   color: #9336B4;;
 }
 .top-container{
-  /* background-color: #E4F9F5; */
+
   position: relative;
   padding-top: 14px;
   margin: 0;
@@ -144,14 +144,11 @@ a.footer-link:hover{
 .navbar ul{
   padding-top: 5px;
   text-align: center;
-  /* float: none;
-    margin-right: 20px; */
     margin-top: 13px;
     color: white;
 }
 .nav-item{
   display: inline-block;
-    /* padding: 0 18px; */
     line-height: 17px;
     margin: 0 39px;
     margin-top: 1px;
