@@ -70,7 +70,7 @@ h3{
 }
 .coding-img{
   width: 25%;
-  float: left;
+  float: right;
   margin-right: 30px;
 }
 .manage-img{
@@ -80,8 +80,8 @@ h3{
 }
 .intro{
   color: #40514E;
-  margin-left: 150px;
-  margin-right: 150px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 hr{
   border-style: dotted none none;
